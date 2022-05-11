@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HoroKult
-- 👀 I’m interested in Yahoo Pipeline
+- 👀 I’m interested in Yahoo Pipes
 - 🌱 I’m currently learning Malbolge
 - 💞️ I’m looking to collaborate on jigsaw puzzles
 - 📫 How to reach me: fax
